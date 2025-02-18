@@ -1,6 +1,6 @@
-<h2 align="center">Starting Kit for Edge-Device LLM Competition, NeurIPS 2024</h2>
+<h2 align="center">Repo of OXteam for Edge-Device LLM Competition, NeurIPS 2024</h2>
 
-This is the starting kit for the Edge-Device LLM Competition, a NeurIPS 2024 competition. To learn more about the competition, please see the [competition website](https://edge-llms-challenge.github.io/edge-llm-challenge.github.io/).  This starting kit provides instructions on downloading data, running evaluations, and generating submissions.
+This is the official repo for the Edge-Device LLM Competition, a NeurIPS 2024 competition. To learn more about the competition, please see the [competition website](https://edge-llms-challenge.github.io/edge-llm-challenge.github.io/).  This starting kit provides instructions on downloading data, running evaluations, and generating submissions.
 
 <span style="color:red"><strong>Please join us on Discord for discussions and up-to-date announcements:</strong></span>
 
